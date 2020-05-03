@@ -5,4 +5,4 @@
 * No need to pay for infrastucture,maintenance it is done by AWS itself.
 * You can access the resources(services) from anywhere.
 * AWS provides the assurity of data security (99.99%).
-*AWS provides services at lower cost. 
+* AWS provides services at lower cost. 
